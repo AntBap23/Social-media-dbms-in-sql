@@ -1,4 +1,4 @@
-Social Media DBMS - Project README
+#Social Media DBMS - Project README
 
 
 Overview
